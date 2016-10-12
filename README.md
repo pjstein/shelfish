@@ -19,6 +19,13 @@ Ideas to explore.
 2. [Taking the Robots to Design School, Part I](http://www.jon.gold/2016/05/robot-design-school/)
 3. [Patterns for Style Composition in React](http://jxnblk.com/writing/posts/patterns-for-style-composition-in-react/)
 4. [Pure UI](http://rauchg.com/2015/pure-ui/)
+5. [Mathematical Typography](http://jxnblk.com/writing/posts/mathematical-web-typography/)
+6. [Color Palette Documentation for Living Style Guides](http://jxnblk.com/writing/posts/color-palette-documentation-for-living-style-guides/)
+
+### Follow
+
+1. [@mrmrs](https://twitter.com/mrmrs_)
+2. [@jxnblk](http://twitter.com/jxnblk)
 
 ## Lena Groeger
 
@@ -37,10 +44,14 @@ Ideas to explore.
 ## Noise
 
 1. [Everything You Should Know about Sound](http://waitbutwhy.com/2016/03/sound.html)
+2. [Music Theory: The TL;DR Version](https://gumroad.com/l/tldrmusic)
 
 ## Rich Hickey
 
 1. [Simple Made Easy](https://github.com/matthiasn/talk-transcripts/blob/master/Hickey_Rich/SimpleMadeEasy.md)
 2. [Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc)
 3. [Design, Composition, and Performance](https://github.com/matthiasn/talk-transcripts/blob/master/Hickey_Rich/DesignCompositionPerformance.md)
+
+## Creativity
+1. [John Cleese on Creativity](https://www.youtube.com/watch?v=4j-Lz0D5_ck)
 
