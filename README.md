@@ -40,6 +40,7 @@ Ideas to explore.
 ## Code
 
 1. [Programming Sucks](https://www.stilldrinking.org/programming-sucks)
+2. [Data Oriented Design](http://gamesfromwithin.com/data-oriented-design)
 
 ## Noise
 
