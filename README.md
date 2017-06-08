@@ -21,6 +21,7 @@ Ideas to explore.
 4. [Pure UI](http://rauchg.com/2015/pure-ui/)
 5. [Mathematical Typography](http://jxnblk.com/writing/posts/mathematical-web-typography/)
 6. [Color Palette Documentation for Living Style Guides](http://jxnblk.com/writing/posts/color-palette-documentation-for-living-style-guides/)
+7. [Free Ideas for UI Frameworks, or How to Achieve Polished UI](http://chrislord.net/index.php/2017/05/27/free-ideas-for-ui-frameworks-or-how-to-achieve-polished-ui/)
 
 ### Follow
 
@@ -59,3 +60,13 @@ Ideas to explore.
 ## $$$
 
 1. [Options v. Cash](https://danluu.com/startup-options/)
+
+## Animated
+
+1. [High Performance Javascript Animations](https://github.com/ianvollick/animation-proxy/blob/master/Explainer.md)
+
+## Synthetic Intelligence
+
+1. [AI Playbook](http://aiplaybook.a16z.com)
+2. [Exploring LSTMs](http://blog.echen.me/2017/05/30/exploring-lstms/)
+
