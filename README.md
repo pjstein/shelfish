@@ -56,3 +56,6 @@ Ideas to explore.
 ## Creativity
 1. [John Cleese on Creativity](https://www.youtube.com/watch?v=4j-Lz0D5_ck)
 
+## $$$
+
+1. [Options v. Cash](https://danluu.com/startup-options/)
